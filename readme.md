@@ -1,7 +1,7 @@
 ## Examen propiedades.com
 
-[![API Instagram](https://propiedades.beeusoft.mx/instagram)](https://propiedades.beeusoft.mx/instagram)
-[![Blog](https://propiedades.beeusoft.mx/)](https://propiedades.beeusoft.mx/instagram)
+[![API Instagram](http://propiedades.beeusoft.mx/instagram)](http://propiedades.beeusoft.mx/instagram)
+[![Blog](http://propiedades.beeusoft.mx/)](http://propiedades.beeusoft.mx/instagram)
 
 Blog con Login y CRUD de posts y categorias.
 
