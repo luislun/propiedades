@@ -2,7 +2,7 @@
 
 [![API Instagram](http://propiedades.beeusoft.mx/instagram)](http://propiedades.beeusoft.mx/instagram)
 [![Blog](http://propiedades.beeusoft.mx/)](http://propiedades.beeusoft.mx/home)
-[![Blog](http://propiedades.beeusoft.mx/matriz.php/)](http://propiedades.beeusoft.mx/matriz.php)
+[![Matriz](http://propiedades.beeusoft.mx/matriz.php/)](http://propiedades.beeusoft.mx/matriz.php)
 
 Blog con Login y CRUD de posts y categorias.
 
